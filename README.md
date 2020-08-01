@@ -1,4 +1,4 @@
-# stock-analysis
+# Stock Analysis
 
 Overview of Project
 We are analysis the behavior of a set of stocks (12 in total). In order to compare the returns between years 2017 and 2018 with the objective of present some picture of what path to chose when is time to invest in a specific finance vehicle.
@@ -32,5 +32,6 @@ The execution times where shorter in the refactored script when comparing with t
 
 ## Summary
 
-1 The advantages of refactoring a code is that the code could be more efficiently more comprehensible and as a result more applicable in real situations when the doubt exist whether use a VBA code or simple putting together a bunch of formulas in excel without VBA.  
-2 Regarding the original VBA script, when we refactored the code, it worked outside of a nested loop which avoid to go over and over to find the data from the set of Stocks, as a result it becomes quicker and efficiently. 
+1. The advantages of refactoring a code is that the code could be more efficiently more comprehensible and as a result more applicable in real situations when the doubt exist whether use a VBA code or simple putting together a bunch of formulas in excel without VBA.  
+
+2. Regarding the original VBA script, when we refactored the code, it worked outside of a nested loop which avoid to go over and over to find the data from the set of Stocks, as a result it becomes quicker and efficiently. 
